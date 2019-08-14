@@ -227,7 +227,7 @@ class: center, middle
 
 - Interactive
 - Some lectures, lots of learn-by-doing
-- Bring your laptop to class every day
+- Bring your ipad to class every day
 
 ---
 
