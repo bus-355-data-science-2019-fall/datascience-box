@@ -239,7 +239,7 @@ class: center, middle
 
 --
 
-- If you have a name and/or set of pronouns that differ from those that appear in your official Duke records, please let me know.
+- If you have a name and/or set of pronouns that differ from those that appear in your official school records, please let me know.
 - If you feel your performance is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource. 
 - I (like many people) am still in the process of learning about diverse perspectives/identities. If something was said in class (by anyone) that made you feel uncomfortable, please talk to me about it.
 
@@ -247,7 +247,7 @@ class: center, middle
 
 ## How to get help
 
-- Course content, logistics, etc. discussion on course Slack <i class="fab fa-slack-hash"></i>.
+- Course content, logistics, etc. discussion on course Canvas site <i class="fab fa-canvas-hash"></i>.
     - Please post on the #questions channel instead of direct messaging.
     - Use proper formatting: When asking questions involving code, please make sure to use inline code formatting for short bits of code or code snippets for longer, multi-line chunks.
        - Formatting messages: https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages
