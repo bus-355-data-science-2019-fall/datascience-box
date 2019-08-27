@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Data Science <br> `r emo::ji('raised_hands')`"
-author: ""
+title: "Welcome to BUS 355 Data Science <br> `r emo::ji('raised_hands')`"
+author: "Fall 2019"
 output:
   xaringan::moon_reader:
     css: "../slides.css"
@@ -190,7 +190,7 @@ Tips for selecting a username:<sup>✦</sup>
 ## Join RStudio Cloud
 
 .instructions[
-Go to [http://bit.ly/R2019Fall](http://bit.ly/R2019Fall), and log in with your GitHub credentials.
+Go to [this link](https://rstudio.cloud/spaces/27076/join?access_code=MkK6ohotL5kuJkKB9t0NPHlmorwCu9t8U%2BsCSXWU), and log in with your GitHub credentials.
 ]
 
 
