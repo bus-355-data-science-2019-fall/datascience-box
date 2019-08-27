@@ -149,18 +149,6 @@ http://varianceexplained.org/r/trump-tweets/
 
 ---
 
-## Greatest Twitter scheme of all time
-
-```{r fig.width=15, fig.height=12, fig.align="center", echo=FALSE}
-knitr::include_graphics("img/bohemian-rhapsody.png")
-```
-
-.small[
-https://gist.github.com/mine-cetinkaya-rundel/03d7516dea1e5f2613a5d71c28edb08d
-]
-
----
-
 ## Create a GitHub account
 
 .instructions[
