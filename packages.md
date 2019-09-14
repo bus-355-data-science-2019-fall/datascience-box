@@ -7,3 +7,4 @@ install.packages("rmarkdown")
 devtools::install_github("hadley/emo")
 devtools::install_github("rstudio/fontawesome")
 magick
+dsbox
